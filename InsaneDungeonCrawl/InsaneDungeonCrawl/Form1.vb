@@ -373,4 +373,5 @@
     Sub PlayerDeath()
         System.Windows.Forms.Application.Restart()
     End Sub
+
 End Class

@@ -9,3 +9,5 @@ c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDun
 c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.exe
 c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.xml
 c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.pdb
+C:\Users\Liam Iverson\Documents\GitHub\DEFCON-1984\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.vbprojResolveAssemblyReference.cache
+C:\Users\Liam Iverson\Documents\GitHub\DEFCON-1984\InsaneDungeonCrawl\InsaneDungeonCrawl\bin\Debug\InsaneDungeonCrawl.exe.config
