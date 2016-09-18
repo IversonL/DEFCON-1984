@@ -1,0 +1,53 @@
+Development Log for Insane Dungeon Crawl (A 24 hour programming experience)
+Hour 1:
+  First 20 Minutes:
+   -Created 20 by 20 tiled grid or 400 total tiles.
+  - Changed to 10 x 10 grid
+  - Created Grid Array/Tile Click Events
+  -Player Movement Created
+
+Hour 2:
+  -Created Basic Map Render Function
+  -Added Collision Detection
+  -Created a function to read in Map data and then display it
+  -Attempted to create an algorithm and several functions for procedurally generating a map.
+  -After doing some paper work and writing code I realized this will not be realistic in my current
+  time frame and decided to create a predesigned map with random item and enemy generation.
+
+Hour 3:
+  -Begin planning out Map on graph paper
+  -Decide instead of clearing 100 rooms the player is tasked with retrieving 11 Orbs representing the soul
+  of the evil Lich Galanaaaaar. The A's being silent
+  -Created multiple rooms and Maps
+  -Begin work on enemy creation
+  -created basic enemy creation function using a Masterlist of each enemies position, map and type
+
+Hour 4:
+  -Began programming Enemy A.I
+  -Totally broke everything, had to restart from previous point
+  -Basic Movement and Collision Detection for Enemies completed
+Hour 5:
+  -Began programming combat and interaction
+  -Changed priority to terminal as I'll need it for logging combat
+  -Base console created, going to spend the next couple of minutes working on features
+Hour 6:
+  -Currently experiencing issues with enemies, initially The Master list wouldn't display any enemies above an index of 1,
+  they now display but won't move.
+  -Enemy issue fixed by removing EnemyCount Variables
+Hour 7:
+  -Created an EnemyDeath and PlayerDeath function
+  -Decided on including Permadeath
+  -Added a gameloop that now handles EnemyMovement
+  -Working on a EnemyPathfinder function
+  -Pathfinding Function now working, had to fix collision detection for it
+  -Final Enemy not appearing on Map 4, need to troubleshoot.
+Hour 8:
+  -I realized that the error was related to the enemies spawning on each other, I'm not sure
+  exactly why this causes the other not to spawn but it works for now.
+  -Collision detection was all fuckey(fuckie?) so I had to rework the logic slightly so enemies wouldn't run into falls and then
+  glitch off onto unreachable area's of the map
+Hour 9:
+  -Decided on creating physical bullets to interact in the environment rather then creating a line of site function to directly
+  check if an attack lands. This will create a more pleasing visual style along with making things easier for myself as I can simply
+  do a collision bounds check for the bullets. Though I won't allow the weapon to fire unless an enemy is clicked.
+  

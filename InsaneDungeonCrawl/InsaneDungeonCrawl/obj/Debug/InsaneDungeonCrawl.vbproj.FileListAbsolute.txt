@@ -1,0 +1,11 @@
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\bin\Debug\InsaneDungeonCrawl.exe.config
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\bin\Debug\InsaneDungeonCrawl.exe
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\bin\Debug\InsaneDungeonCrawl.pdb
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\bin\Debug\InsaneDungeonCrawl.xml
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.vbprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.Form1.resources
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.Resources.resources
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.vbproj.GenerateResource.Cache
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.exe
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.xml
+c:\users\liam\documents\visual studio 2015\Projects\InsaneDungeonCrawl\InsaneDungeonCrawl\obj\Debug\InsaneDungeonCrawl.pdb
